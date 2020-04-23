@@ -19,7 +19,7 @@ mirrors = {
     "daocloud": "http://f1361db2.m.daocloud.io",
     "netease": "http://hub-mirror.c.163.com",
     "ustc": "https://docker.mirrors.ustc.edu.cn",
-    "aliyun": "https://2h3po24q.mirror.aliyuncs.com"  # use your own aliyun mirror url instead.
+    "aliyun": "https://a8didjcl.mirror.aliyuncs.com"  # use your own aliyun mirror url instead.
 }
 
 docker_config_map = {
